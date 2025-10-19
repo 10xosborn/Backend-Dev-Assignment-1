@@ -1,2 +1,2 @@
 # Backend Dev - Intro
-Assignment_1 on Backend Dev
+Printing name and email to console
