@@ -1,2 +1,2 @@
-# JS-Projects
-Projects on JavaScript
+# Backend Dev - Intro
+Assignment_1 on Backend Dev
